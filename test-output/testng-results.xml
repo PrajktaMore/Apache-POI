@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49584" started-at="2021-10-23T07:58:08Z" finished-at="2021-10-23T07:58:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49584" started-at="2021-10-23T07:58:08Z" finished-at="2021-10-23T07:58:57Z">
+      <class name="ApachePOI.Apache_POI">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="beforeMethod" is-config="true" duration-ms="2917" started-at="2021-10-23T13:28:08Z" finished-at="2021-10-23T13:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="f" duration-ms="11704" started-at="2021-10-23T13:28:11Z" data-provider="data" finished-at="2021-10-23T13:28:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="afterMethod" is-config="true" duration-ms="144" started-at="2021-10-23T13:28:23Z" finished-at="2021-10-23T13:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="beforeMethod" is-config="true" duration-ms="1950" started-at="2021-10-23T13:28:23Z" finished-at="2021-10-23T13:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="f" duration-ms="7843" started-at="2021-10-23T13:28:25Z" data-provider="data" finished-at="2021-10-23T13:28:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="afterMethod" is-config="true" duration-ms="93" started-at="2021-10-23T13:28:33Z" finished-at="2021-10-23T13:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="beforeMethod" is-config="true" duration-ms="1781" started-at="2021-10-23T13:28:33Z" finished-at="2021-10-23T13:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="f" duration-ms="10692" started-at="2021-10-23T13:28:34Z" data-provider="data" finished-at="2021-10-23T13:28:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="afterMethod" is-config="true" duration-ms="88" started-at="2021-10-23T13:28:45Z" finished-at="2021-10-23T13:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="beforeMethod" is-config="true" duration-ms="1733" started-at="2021-10-23T13:28:45Z" finished-at="2021-10-23T13:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="f" duration-ms="10211" started-at="2021-10-23T13:28:47Z" data-provider="data" finished-at="2021-10-23T13:28:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ApachePOI.Apache_POI@28d25987]" name="afterMethod" is-config="true" duration-ms="96" started-at="2021-10-23T13:28:57Z" finished-at="2021-10-23T13:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ApachePOI.Apache_POI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
